@@ -127,7 +127,7 @@ partialPostUpdate()
 async function getWeather(city) {
 
     // https://openweathermap.org
-    const apiKey = "TU_API_KEY"
+    const apiKey = "41b3b377da6b884576f44e156dca7c22"
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`
 
     try {

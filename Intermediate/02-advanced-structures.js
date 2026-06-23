@@ -20,7 +20,7 @@ console.log(doubled)
 
 // filter
 
-let evens = numbers.filter(element => element % 2 === 0)
+let evens = numbers.filter(element => element % 2 === 0) //Aplicar un filtro para obtener solo los números pares
 console.log(evens)
 
 // reduce
